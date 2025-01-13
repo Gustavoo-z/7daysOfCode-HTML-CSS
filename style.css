@@ -172,3 +172,38 @@ body {
 .salario-vagas-abertas {
     color: var(--cor-cinza);
 }
+
+.container-feedback {
+    text-align: center;
+    padding: 5% 9% 8% 9%;
+}
+
+.caixa-feedback {
+    background-color: #C3191908;
+    padding: 3%;
+    border-radius: 16px;
+}
+
+.texto-feedback {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--cor-vermelha);
+}
+
+.titulo-feedback {
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.nome-colaboradora-feedback {
+    font-weight: 500;
+    font-size: 16px;
+    margin: 1% 0% 0.5% 0%;
+}
+
+.cargo-colaboradora-feedback {
+    color: var(--cor-cinza);
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0%;
+}
