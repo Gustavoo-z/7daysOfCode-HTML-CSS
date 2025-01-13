@@ -110,3 +110,65 @@ body {
     color: var(--cor-cinza);
     font-size: 16px;
 }
+
+.container-vagas {
+    text-align: center;
+}
+
+.container-vagas-textos {
+    padding: 32px;
+}
+
+.subtitulo-vagas {
+    font-size: 14px;
+    color: var(--cor-vermelha);
+    background-color: #8E24240D;
+    border-radius: 1rem;
+    padding: 4px 12px;
+    display: inline;
+}
+
+.titulo-vagas {
+    font-size: 36px;
+}
+
+.texto-vagas {
+    font-size: 20px;
+    color: var(--cor-cinza);
+}
+
+.container-vagas-abertas {
+    padding: 0% 23%;
+}
+
+.caixa-vagas-abertas {
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 24px 24px 28px 24px;
+    margin-bottom: 24px;
+}
+
+.descricao-vagas-abertas {
+    display: flex;
+    gap: 24px;
+}
+
+.vaga-vagas-abertas{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.titulo-vagas-abertas {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 6%;
+    margin-bottom: 3%;
+}
+
+.tempo-vagas-abertas {
+    color: var(--cor-cinza);
+}
+
+.salario-vagas-abertas {
+    color: var(--cor-cinza);
+}
